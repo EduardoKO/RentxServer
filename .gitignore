@@ -1,0 +1,4 @@
+.node_modules
+.vscode
+Dockerfile
+docker-compose.yml
